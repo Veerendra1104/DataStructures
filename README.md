@@ -1,24 +1,22 @@
-DataStructuresJava
-This repository contains implementations of common Data Structures and Algorithms in Java.
-It covers various data structures such as arrays, linked lists, stacks, queues, and more, 
-demonstrating fundamental concepts and their practical applications through different algorithms.
+# DataStructuresJava
 
-Author Information
-Name: M S Veerendra
+This repository contains implementations of common **Data Structures** and **Algorithms** in **Java**.  
+It covers various data structures such as arrays, linked lists, stacks, queues, and more, demonstrating fundamental concepts and their practical applications through different algorithms.
 
-GitHub Clone
+## Author Information
+
+**Name**: M S Veerendra
+
+## GitHub Clone
+
 To clone this repository, use the following command:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/Veerendra1104/DataStructures.git
+
 Array Data Structure
 Description
-Arrays are one of the most fundamental data structures in programming. They store a collection 
-of elements of the same type in a contiguous memory block. Various operations, such as accessing,
-updating, sorting, and searching elements, are essential for working with arrays. In this repository, 
-multiple problems related to arrays are solved, covering different scenarios and algorithms.
+Arrays are one of the most fundamental data structures in programming. They store a collection of elements of the same type in a contiguous memory block. Various operations, such as accessing, updating, sorting, and searching elements, are essential for working with arrays. In this repository, multiple problems related to arrays are solved, covering different scenarios and algorithms.
 
 Completed Problems (Arrays)
 Here are the problems solved so far:
@@ -60,7 +58,6 @@ bash
 Copy
 Edit
 git clone https://github.com/Veerendra1104/DataStructures.git
-
 Navigate to the respective folder where the array problems are stored:
 
 bash
@@ -68,6 +65,8 @@ Copy
 Edit
 cd Arrays_Problems
 Compile and run the Java programs:
+
+Example for AverageArray.java:
 
 bash
 Copy
